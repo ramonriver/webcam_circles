@@ -16,6 +16,7 @@ const int MIN_RADIUS = 20;                //radi mínim dels cercles considerats
 const int MAX_RADIUS = 100;               //radi màxim dels cercles considerats
 
 Referències:
+
 https://en.wikipedia.org/wiki/Hough_transform
 
 https://docs.opencv.org/2.4/modules/imgproc/doc/feature_detection.html?highlight=houghcircles
