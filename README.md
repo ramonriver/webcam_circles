@@ -1,4 +1,4 @@
-# webcam_circleis
+# webcam_circles
 Circle detection from online webcam images
 
 La transformada HOUGH és una tècnica per extreure característiques en imatges digitals. Tracta de trobar punts distintius a partir dels quals marcar línies, cercles o elipses agrupant-los.
